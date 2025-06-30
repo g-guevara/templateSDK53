@@ -17,7 +17,7 @@ import SignupForm from "./screens/SignupForm";
 import { styles } from "./styles/IndexStyles";
 
 // URL de tu API
-const API_URL = "https://bhu8vgy7nht5.vercel.app";
+const API_URL = "https://yourapi.vercel.app";
 
 export default function Index() {
   const [isLogin, setIsLogin] = useState(true);
